@@ -1,0 +1,35 @@
+{
+    "MangaList":
+    [
+        {
+            "mangaName": "Berserk",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ebayimg.com%2Fimages%2Fg%2FVY8AAOSwFV1bF5kL%2Fs-l640.jpg&f=1&nofb=1&ipt=7c1aa2b49cad41ffed8fbf79e0029bb2e7ceead4db243d6fd396e2ed3ed43194&ipo=images",
+            "description": "Set in a medieval Europe-inspired dark fantasy world, the story centers on the characters of Guts, a lone swordsman, and Griffith, the leader of a mercenary band called the 'Band of the Hawk'."
+        },
+        {
+            "mangaName": "Jojo Golden Wind",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.everyeye.it%2Fimg-notizie%2Fle-bizzarre-avventure-jojo-vento-aureo-diffuso-nuovo-poster-dell-anime-v3-340466.jpg&f=1&nofb=1&ipt=872f1e9d8a02bef3516a3b18847aef0e161bc7f859bda6a4f7d49191fef8b051&ipo=images",
+            "description": "This part introduces one son of DIO as the main protagonist, and also delves deeper into the lore and true purpose of the Stand Arrows featured in the previous part."
+        },
+        {
+            "mangaName": "Jojo Stone Ocean",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F736x%2F5a%2Fbc%2Fbe%2F5abcbe92657d0f79916f5605dbae47f6.jpg&f=1&nofb=1&ipt=2c13afcd2e5fbf6f196dd145da43287de5fd7bb0c8a4da7dd4b9289f08d50e0b&ipo=images",
+            "description": "Set near Port St. Lucie, Florida in 2011, the story follows Jotaro Kujo's estranged daughter Jolyne Cujoh as she serves a 15-year sentence at Green Dolphin Street Prison."
+        },
+        {
+            "mangaName": "Dragon Ball Z",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F66.media.tumblr.com%2F46400c6800a16b312218cf06b01fa053%2Ftumblr_oci9349hpn1uxy8t7o1_1280.jpg&f=1&nofb=1&ipt=8786ee37282e19c06b8ee040eeb6e4c1a2bde1b1df5688566562a3ebf9000e8b&ipo=images",
+            "description": "Dragon Ball Z continues the adventures of Son Goku in his adult life as he and his companions defend the Earth against villains including aliens (Vegeta, Frieza), androids (Cell), and magical creatures (Majin Buu). At the same time, the story parallels the life of his son, Gohan, as well as the development of his rivals, Piccolo and Vegeta."
+        },
+        {
+            "mangaName": "YuYu Hakusho",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-13fA1fkyG0c%2FXVri7hhIUdI%2FAAAAAAAAFUM%2FL0OgZ4CDDVsr5EYalZ7GwkyzfmdGxy7dgCLcBGAs%2Fs1600%2FYu-Yu-Hakusho-Se-Publicara-En-M%2525C3%2525A9xico-Panini-Manga.jpg&f=1&nofb=1&ipt=58d6a4ab4df387a6e241f545a016666607ca62d90aeb5123e82cb2632946d0bf&ipo=images",
+            "description": "The series tells the story of Yusuke Urameshi, a teenage delinquent who is struck and killed by a car while attempting to save a child's life."
+        },
+        {
+            "mangaName": "Naruto",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fres.cloudinary.com%2Fjerrick%2Fimage%2Fupload%2Fc_scale%2Cq_auto%2Fvrezuvxu8yo0kjdsev8e.jpg&f=1&nofb=1&ipt=4648d169208bb32d0f56679af30169d33695951b8f39e8a3ec78182ac9b03f3a&ipo=images",
+            "description": "It tells the story of Naruto Uzumaki, a young ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village."
+        }
+    ]
+}
